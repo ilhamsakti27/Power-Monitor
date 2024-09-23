@@ -9,15 +9,15 @@ Power Monitor
 
 # Stakeholders
 ### Penanggung Jawab: 
-Dr.tech.Ir. Raden Venantius Hari Ginardi, M.Sc - Kadep
-Ridho Rahman Hariadi, S.Kom., M.Sc.
-Irzal Ahmad Sabilla, S. Kom.,M.Kom
-Ketua: Naufal Ulhaq
-Anggota:
-Ilham Muhammad Sakti
-Rafif Naufaldi Wibowo
-Albert Agung Andika
-Wirid
+Dr.tech.Ir. Raden Venantius Hari Ginardi, M.Sc - Kadep  
+Ridho Rahman Hariadi, S.Kom., M.Sc.  
+Irzal Ahmad Sabilla, S. Kom.,M.Kom  
+Ketua: Naufal Ulhaq  
+Anggota:  
+Ilham Muhammad Sakti  
+Rafif Naufaldi Wibowo  
+Albert Agung Andika  
+Wirid  
 
 # Project Schedule
 Januari 2023 - Maret 2023
